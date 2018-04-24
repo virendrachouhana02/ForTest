@@ -119,7 +119,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>maven-snapshots></id>
-			<url>localhost:8081/nexus/content/repositories/maven-snapshots/</url>
+			<url>192.168.122.87:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
